@@ -1,1 +1,32 @@
+{
+  "companyname":"test1",
+  "ownername":"asishrao",
+  "rollno":"22l35a0525",
+  "owneremail":"asishabhi595@gmail.com",
+  "accesscode":"ZngVRi"
+}
+
+{
+  "companyName": "test1",
+  "clientID": "ff7f7941-be86-4be5-b201-79a6892c9a0e",
+  "clientSecret": "vmlyvzRVaXxtRymq",
+  "ownerName": "asishrao",
+  "ownerEmail": "asishabhi595@gmail.com",
+  "rollNo": "22l35a0525"
+}
+{
+  "companyName": "test1",
+  "clientID": "ff7f7941-be86-4be5-b201-79a6892c9a0e",
+  "clientSecret": "vmlyvzRVaXxtRymq",
+  "ownerName": "asishrao",
+  "ownerEmail": "asishabhi595@gmail.com",
+  "rollNo": "22l35a0525"
+}
+{
+  "token_type": "Bearer",
+  "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJNYXBDbGFpbXMiOnsiZXhwIjoxNzIxOTc1MTUxLCJpYXQiOjE3MjE5NzQ4NTEsImlzcyI6IkFmZm9yZG1lZCIsImp0aSI6ImZmN2Y3OTQxLWJlODYtNGJlNS1iMjAxLTc5YTY4OTJjOWEwZSIsInN1YiI6ImFzaXNoYWJoaTU5NUBnbWFpbC5jb20ifSwiY29tcGFueU5hbWUiOiJ0ZXN0MSIsImNsaWVudElEIjoiZmY3Zjc5NDEtYmU4Ni00YmU1LWIyMDEtNzlhNjg5MmM5YTBlIiwiY2xpZW50U2VjcmV0Ijoidm1seXZ6UlZhWHh0UnltcSIsIm93bmVyTmFtZSI6ImFzaXNocmFvIiwib3duZXJFbWFpbCI6ImFzaXNoYWJoaTU5NUBnbWFpbC5jb20iLCJyb2xsTm8iOiIyMmwzNWEwNTI1In0.OwtKoEbwW3k8AYK5BkvAbFbhUtEnx0FIz3Us2s5JoJE",
+  "expires_in": 1721975151
+}
+
+
 
